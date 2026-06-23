@@ -1,6 +1,9 @@
 # solareal
 Calculate how much solar energy you can harvest from a roof
 
+<img width="927" height="870" alt="Udklip" src="https://github.com/user-attachments/assets/c87915b1-607c-43b6-bcd9-326295361077" />
+
+
 Et webbaseret værktøj til analyse af tagflader baseret på Dataforsyningens højdemodel (DHM).
 Funktioner
 
