@@ -30,3 +30,17 @@ Forbehold
 Ingen skyggeanalyse
 Simplificeret solmodel
 Resultater er estimater
+
+
+/projekt-root
+│
+├── app.py               # Flask backend
+│
+├── /static
+│   ├── app.js          # Leaflet frontend (kort, draw, fetch)
+│   ├── style.css       # Styling (kort + labels + UI)
+│
+├── /templates
+│   └── index.html      # HTML (kortcontainer + scripts)
+│
+├── analysis.py         # Backend analyse og beregner (WCS, numpy)
