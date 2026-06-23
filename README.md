@@ -45,3 +45,5 @@ Resultater er estimater
 │
 ├── analysis.py         # Backend analyse og beregner (WCS, numpy)
 ```
+
+Token skal rekvireres fra Dataforsyningen.dk
