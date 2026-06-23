@@ -31,7 +31,7 @@ Ingen skyggeanalyse
 Simplificeret solmodel
 Resultater er estimater
 
-
+```text
 /projekt-root
 │
 ├── app.py               # Flask backend
@@ -44,3 +44,4 @@ Resultater er estimater
 │   └── index.html      # HTML (kortcontainer + scripts)
 │
 ├── analysis.py         # Backend analyse og beregner (WCS, numpy)
+```
